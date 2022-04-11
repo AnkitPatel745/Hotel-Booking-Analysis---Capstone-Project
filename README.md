@@ -1,5 +1,13 @@
+<p align="center">
+  <img 
+    width="600"
+    height="300"
+    src="https://user-images.githubusercontent.com/88999980/162772717-887a324b-f56d-4b37-b609-8d8f30f5a248.jpg"
+  >
+</p>
+
 # Hotel-Booking-Analysis---Capstone-Project
-Exploratory Data Analysis Of Hotel Booking Analysis
+#### Exploratory Data Analysis Of Hotel Booking Analysis. 
 We have been put into the shoes of a marketing team for a new hotel startup that wants to know about the hotel industry. We have been provided a dataset of the hotel industry of the region in which our startup aims to begin its initial operations. Our primary goal is to understand the market of this particular region and try to use our data analysis techniques to draw out key features of the market. Our secondary goal is to draw out actionable insights from our analysis and give conclusions about key aspects of the market such as cancellation rate, distribution channels, and alike.
 
 
